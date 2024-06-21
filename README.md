@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Camilo Urrea</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 💬 Ask me about **Python and SQL**
-
 - 📫 How to reach me **luissepulveda110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
